@@ -80,7 +80,7 @@ export function Hero() {
             }}
           >
             <Image
-              src="/selva_black.png"
+              src="/Portfolio-web/selva_black.png"
               alt="Selu - Software Developer"
               fill
               className="object-cover object-top"
